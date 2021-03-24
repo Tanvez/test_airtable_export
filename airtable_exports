@@ -1,0 +1,378 @@
+{
+  "Books": {
+    "features": [
+      {
+        "geometry": null,
+        "id": "rec8lmU0DkTC86WSJ",
+        "properties": {
+          "Author": [
+            "recsKNyNpMPzbEypr"
+          ],
+          "Cover Photo": [
+            {
+              "filename": "the-art-of-war-by-todd-gilloon.jpg",
+              "id": "attAXmt3wC5frI3zu",
+              "size": 105039,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/f69b3c8c27d61386e3156c5f4c886ffa/597615f2",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 771,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/6d8b5432e75ca9f0a5d9605d736ddc98/a142cf06",
+                  "width": 512
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/afab400415de1677702fd860053fb8a2/22b4119a",
+                  "width": 24
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/c0139142e8154035d35b561d94fdd55d/f5562cd9/the-art-of-war-by-todd-gilloon-12-by-18-print-unframed-print-recovering-the-classics-11409261763_2048x.jpg"
+            },
+            {
+              "filename": "the-art-of-war-by-roberlan-borges.jpg",
+              "id": "attQB3Q5SrqBBuzlQ",
+              "size": 289323,
+              "thumbnails": {
+                "large": {
+                  "height": 384,
+                  "url": "https://dl.airtable.com/Ll3MtU3QQPyHKgduccbd_9781682280645_the-art-of-war-generic.jpg",
+                  "width": 256
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/4HdqJ6MXRnKcovti0swP_9781682280645_the-art-of-war-generic.jpg",
+                  "width": 24
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/XCWr6keZRNOUztUoDI8Q_9781682280645_the-art-of-war-generic.jpg"
+            }
+          ],
+          "Name": "The Art of War",
+          "Synopsis": "The Art of War is an ancient Chinese military treatise dating from the Late Spring and Autumn Period (roughly 5th century BC). The work, which is attributed to the ancient Chinese military strategist Sun Tzu (\"Master Sun\", also spelled Sunzi), is composed of 13 chapters. Each one is devoted to an aspect of warfare and how it applies to military strategy and tactics. For almost 1,500 years it was the lead text in an anthology that would be formalised as the Seven Military Classics by Emperor Shenzong of Song in 1080. The Art of War remains the most influential strategy text in East Asian warfare and has influenced both Eastern and Western military thinking, business tactics, legal strategy and beyond.\n\nThe book contained a detailed explanation and analysis of the Chinese military, from weapons and strategy to rank and discipline. Sun Tzu also stressed the importance of intelligence operatives and espionage to the war effort. Because Sun Tzu has long been considered to be one of history's finest military tacticians and analysts, his teachings and strategies formed the basis of advanced military training for centuries to come."
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recEjDBmGVJ9jWMPp",
+        "properties": {
+          "Author": [
+            "rec9ComFbScr2SmG5"
+          ],
+          "Bought?": true,
+          "Cover Photo": [
+            {
+              "filename": "The-Brothers-Karamazov_cover-by-Monica-Alisse.jpeg",
+              "id": "att8eueKQSexOcci5",
+              "size": 44554,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/8605e298c2f5e18052b186b2ab996ad9/db1bcc1b",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 764,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c00dee24f698d68c0e746f67f7a65b95/a7530b36",
+                  "width": 512
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9347d2c57258601baeb39ac26b9f4b19/790ed9a1",
+                  "width": 24
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/470cc6f26e3c68827ffb5a3fbc64e8ed/7ed4a534/rtc_TheBrothersKaramazov_MonicaAlisse.jpeg"
+            },
+            {
+              "filename": "Brothers-Karamazov-cover-by-Roberlan-Borges.jpeg",
+              "id": "atth0R9N3wl6Lfh7L",
+              "size": 147744,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/ac305494a639896d9861ba519fa0fc9d/db20418e",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 764,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/25986cc8aeca062751ba09d9c41e056e/c7f4af1d",
+                  "width": 512
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/eda18aa9c6cb121c6954a8aa57848d76/a3033c66",
+                  "width": 24
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/d4ea4b5087187fa071a070c66c58158d/04ac731d/rtc_TheBrothersKaramazov_RoberlanBorges.jpeg"
+            }
+          ],
+          "Name": "The Brothers Karamazov",
+          "Personal Notes": "I had a bit of trouble keeping track of the characters' many different names and nicknames. Once I got past that, though, it was extremely powerful and thought-provoking.",
+          "Personal Rating": 4,
+          "Read?": true,
+          "Synopsis": "The Brothers Karamazov is a passionate philosophical novel set in 19th-century Russia, that enters deeply into the ethical debates of God, free will, and morality. It is a spiritual drama of moral struggles concerning faith, doubt, judgment, and reason, set against a modernizing Russia, with a plot which revolves around the subject of patricide. Dostoevsky composed much of the novel in Staraya Russa, which inspired the main setting."
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recIhUcppd63hXGj6",
+        "properties": {
+          "Author": [
+            "recKoGJ4oUijOyOxx"
+          ],
+          "Cover Photo": [
+            {
+              "filename": "Frankenstein-by-Christopher-Komuro.jpeg",
+              "id": "attsFt5omHPZE9HhO",
+              "size": 193443,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/b19b167f1d1ce1c3f24797494391a3cb/850fdd6a",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 761,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/e7ff045eb1d146604ea7fb2b1a75d6e9/edaea6ea",
+                  "width": 512
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/5c3f2b013964f3da9a38c17f61f064e8/875ad3ed",
+                  "width": 24
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/f4dfed2054b278b4b8f57094e2fdebdb/0a4017ca/Frankenstein-by-Christopher-Komuro.jpeg"
+            },
+            {
+              "filename": "Frankenstein-by-Roberlan-Borges.jpeg",
+              "id": "attQkqv93WCNFHK3q",
+              "size": 88589,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/5e477cff1fd43debe5f3f8fb968c96c8/992f58f6",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 764,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/31e6e13d50755071d6fb93e369bbcd70/15db7ba3",
+                  "width": 512
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/f6dc0310de8672f8fe84acf0f566e476/19028a1b",
+                  "width": 24
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/18896c5b5a00a46c82e2a5b843fa5c24/27059f6a/Frankenstein-by-Roberlan-Borges.jpeg"
+            }
+          ],
+          "Name": "Frankenstein",
+          "Synopsis": "Frankenstein; or, The Modern Prometheus is a novel written by English author Mary Shelley (1797–1851) that tells the story of Victor Frankenstein, a young scientist who creates a hideous, sapient creature in an unorthodox scientific experiment. Shelley started writing the story when she was 18, and the first edition of the novel was published anonymously in London on 1 January 1818, when she was 20. Her name first appeared on the second edition, published in 1823.\n\nShelley travelled through Europe in 1814, journeying along the river Rhine in Germany with a stop in Gernsheim, which is 17 kilometres (11 mi) away from Frankenstein Castle, where, two centuries before, an alchemist was engaged in experiments. Later, she travelled in the region of Geneva (Switzerland)—where much of the story takes place—and the topic of galvanism and occult ideas were themes of conversation among her companions, particularly her lover and future husband, Percy B. Shelley. Mary, Percy and Lord Byron decided to have a competition to see who could write the best horror story. After thinking for days, Shelley dreamt about a scientist who created life and was horrified by what he had made; her dream later evolved into the novel's story.\n\nFrankenstein is infused with elements of the Gothic novel and the Romantic movement. At the same time, it is an early example of science fiction. Brian Aldiss has argued that it should be considered the first true science fiction story because, in contrast to previous stories with fantastical elements resembling those of later science fiction, the central character \"makes a deliberate decision\" and \"turns to modern experiments in the laboratory\" to achieve fantastic results. It has had a considerable influence in literature and popular culture and spawned a complete genre of horror stories, films and plays."
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recVRdmifJayxU8Q5",
+        "properties": {
+          "Author": [
+            "recGHAwsQUOZW8NZ1"
+          ],
+          "Cover Photo": [
+            {
+              "filename": "sense-and-sensibility-by-c-a-speakman.jpg",
+              "id": "attowYa4SLMs5pTk1",
+              "size": 210945,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/fe61e4610df4c05dcd6af495ea798377/41c7bb91",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 771,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/63a6c34e821bd733cf4f9a122b024293/3e6d7a8b",
+                  "width": 512
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/8dc9da4dee9950b088ff575219071723/b532597e",
+                  "width": 24
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/bbb183ffca9f4be8194fd0817ed22a8b/b15c4c30/sense-and-sensibility-by-c-a-speakman-12-by-18-print-unframed-print-recovering-the-classics-6926697795_2048x.jpg"
+            },
+            {
+              "filename": "sense-and-sensibility-by-roberto-lanznaster.png",
+              "id": "attmzEy4nxPms1d9r",
+              "size": 356975,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/f3f310a6244b1e85b90a1ef92d3af27b/19c57df7",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 638,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/592fc70c346cd1c6b6a9d5665ac72111/883ae84d",
+                  "width": 434
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/e49b038b4bd821961c739c1393dcec81/41019688",
+                  "width": 24
+                }
+              },
+              "type": "image/png",
+              "url": "https://dl.airtable.com/.attachments/dc20ad766d1d435aa73949f22657433b/bfb45e4b/ScreenShot2019-07-29at5.32.33PM.png"
+            }
+          ],
+          "Name": "Sense and Sensibility",
+          "Synopsis": "Sense and Sensibility is a novel by Jane Austen, published in 1811. It was published anonymously; By A Lady appears on the title page where the author's name might have been. It tells the story of the Dashwood sisters, Elinor (age 19) and Marianne (age 16 1/2) as they come of age. They have an older, stingy half-brother, John, and a younger sister, Margaret, 13.\n\nThe novel follows the three Dashwood sisters as they must move with their widowed mother from the estate on which they grew up, Norland Park. Because Norland is passed down to John, the product of Mr. Dashwood's first marriage, and his young son, the four Dashwood women need to look for a new home. They have the opportunity to rent a modest home, Barton Cottage, on the property of a distant relative, Sir John Middleton. There they experience love, romance, and heartbreak. The novel is likely set in southwest England, London and Sussex between 1792 and 1797."
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recksd6KvIyJPX7DH",
+        "properties": {
+          "Author": [
+            "recGHAwsQUOZW8NZ1"
+          ],
+          "Bought?": true,
+          "Cover Photo": [
+            {
+              "filename": "Pride-and-Prejudice-by-Alexis-Lampley.jpeg",
+              "id": "attxnCBIXYcbX5ZK1",
+              "size": 155517,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/e55b8c5eec43ce033d1b16c27f0e3465/393592e7",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 764,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/8c31879140b89aea92ed6b1b47ddc533/45734a5b",
+                  "width": 512
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/386d46fbacc5950256f4c5e3676e7c81/e570baf4",
+                  "width": 24
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/8c81377e9b09d722013519d0441b0988/432fdc00/rtc_PrideandPrejudice_AlexisLampley.jpeg"
+            },
+            {
+              "filename": "Pride-and-Prejudice-by-Tim-Daniel.jpeg",
+              "id": "attIAOdSEFQXvFSFg",
+              "size": 186872,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/72b8ce46799290417107c183231e527f/5848ea9d",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 764,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/a72b39c62fb03a1b1439c753e0c3d148/10d17879",
+                  "width": 512
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/a56e9d3aae1a6105938c356e290a0513/2daeb30f",
+                  "width": 24
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/ad938e5ece73dd404eb91aa9536262b0/98d0d661/rtc_PrideandPrejudice_TimDaniel.jpeg"
+            }
+          ],
+          "Name": "Pride and Prejudice",
+          "Personal Notes": "I wasn't expecting this to be so laugh-out-loud funny! Lots of extremely savage burns.",
+          "Personal Rating": 5,
+          "Read?": true,
+          "Synopsis": "Pride and Prejudice is an 1813 romantic novel of manners written by Jane Austen. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book, who learns about the repercussions of hasty judgments and eventually comes to appreciate the difference between superficial goodness and actual goodness. A classic piece filled with comedy, its humor lies in its honest depiction of manners, education, marriage and money during the Regency era in Great Britain.\n\nMr. Bennet of Longbourn estate has five daughters, but because his property is entailed it can only be passed from male heir to male heir. Consequently, Mr. Bennet's family will be destitute upon his death. Because his wife also lacks an inheritance, it is imperative that at least one of the girls marry well to support the others upon his death, which is a motivation that drives the plot. Jane Austen's opening line--\"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife\"-- is a sentence filled with irony and sets the tone for the book. The novel revolves around the importance of marrying for love, not simply for economic gain or social prestige, despite the communal pressure to make a good (i.e., wealthy) match."
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recwprtJySaovkeB0",
+        "properties": {
+          "Author": [
+            "rechxV0k0fLWKeWCb"
+          ],
+          "Bought?": true,
+          "Cover Photo": [
+            {
+              "filename": "narrative-of-the-life-of-frederick-douglass-by-robert-wallman.jpg",
+              "id": "attrziWhhRtTLlutj",
+              "size": 29960,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/301343accd894e11ce516fcf589b977a/0521fcf7",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 636,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/17fbc29e67b8a0bd294986efd534178e/c3ec53d5",
+                  "width": 431
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/894ed851cd4acb08cac9b9e3942848e2/28148f0e",
+                  "width": 24
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/1fff359fe76eb6c68334281e1192b8ff/4696e24d/narrative-of-the-life-of-frederick-douglass-by-robert-wallman-12-by-18-print-unframed-print-recovering-the-classics-26240904014_2048x.jpg"
+            },
+            {
+              "filename": "narrative-of-the-life-of-frederick-by-benjy-brooke.jpg",
+              "id": "atttR3oJx96yL3ONN",
+              "size": 460788,
+              "thumbnails": {
+                "large": {
+                  "height": 384,
+                  "url": "https://dl.airtable.com/kULbC2VjS8OGBBVsszZz_9781682280126_narrative-of-the-life-of-frederick-generic.jpg",
+                  "width": 256
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/zRylEm1aQuCzoUfit3wz_9781682280126_narrative-of-the-life-of-frederick-generic.jpg",
+                  "width": 24
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/IrsyOmZRyuEdZpr7ePXs_9781682280126_narrative-of-the-life-of-frederick-generic.jpg"
+            }
+          ],
+          "Name": "Narrative of the Life of Frederick Douglass, an American Slave",
+          "Synopsis": "Narrative of the Life of Frederick Douglass is an 1845 memoir and treatise on abolition written by famous orator and former slave Frederick Douglass during his time in Lynn, Massachusetts. It is generally held to be the most famous of a number of narratives written by former slaves during the same period. In factual detail, the text describes the events of his life and is considered to be one of the most influential pieces of literature to fuel the abolitionist movement of the early 19th century in the United States.\n\nNarrative of the Life of Frederick Douglass encompasses eleven chapters that recount Douglass's life as a slave and his ambition to become a free man. It contains two introductions by well-known white abolitionists: a preface by William Lloyd Garrison, and a letter by Wendell Phillips, both arguing for the veracity of the account and the literacy of its author."
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  }
+}
