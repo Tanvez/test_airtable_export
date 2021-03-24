@@ -1,4 +1,200 @@
 {
+  "Authors": {
+    "features": [
+      {
+        "geometry": null,
+        "id": "rec9ComFbScr2SmG5",
+        "properties": {
+          "Bio": "Fyodor Mikhailovich Dostoyevsky (11 November 1821 – 9 February 1881) was a Russian novelist, short story writer, essayist, journalist and philosopher. Dostoevsky's literary works explore human psychology in the troubled political, social, and spiritual atmospheres of 19th-century Russia, and engage with a variety of philosophical and religious themes. His most acclaimed works include Crime and Punishment (1866), The Idiot (1869), Demons (1872) and The Brothers Karamazov (1880). Dostoevsky's oeuvre consists of 11 novels, three novellas, 17 short stories and numerous other works. Many literary critics rate him as one of the greatest psychologists in world literature. His 1864 novella Notes from Underground is considered to be one of the first works of existentialist literature.",
+          "Books": [
+            "recEjDBmGVJ9jWMPp"
+          ],
+          "Name": "Fyodor Dostoyevsky",
+          "Photos": [
+            {
+              "filename": "Dostoevskij_1876.jpg",
+              "id": "attR9HPWP3sxkv6n3",
+              "size": 336198,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/b5c4a4ead672724b0d2dbff90dd964f4/22e1ff7c",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 644,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/328d5ff2c3f98b93cfe65217f229b6e1/fb3cf83c",
+                  "width": 512
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/ac32ec1b30a5a7bc42694825f31e04da/085d81d7",
+                  "width": 29
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/4d45083aedcb6be8814f5e3fca145d54/6d52f17a/Dostoevskij_1876.jpg"
+            }
+          ]
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recGHAwsQUOZW8NZ1",
+        "properties": {
+          "Bio": "Jane Austen (16 December 1775 – 18 July 1817) was an English novelist known primarily for her six major novels, which interpret, critique and comment upon the British landed gentry at the end of the 18th century. Austen's plots often explore the dependence of women on marriage in the pursuit of favourable social standing and economic security. Her works critique the novels of sensibility of the second half of the 18th century and are part of the transition to 19th-century literary realism. Her use of biting irony, along with her realism, humour, and social commentary, have long earned her acclaim among critics, scholars, and popular audiences alike.",
+          "Books": [
+            "recksd6KvIyJPX7DH",
+            "recVRdmifJayxU8Q5"
+          ],
+          "Name": "Jane Austen",
+          "Photos": [
+            {
+              "filename": "794px-CassandraAusten-JaneAusten%28c.1810%29_hires.jpg",
+              "id": "attChpnqwN9D4XU7v",
+              "size": 226069,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/0fb46c01395efbce09e113724c9b42af/ddab2b12",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 660,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c596cdccd6b1c1752dc790a88aac1e1f/9aae8f69",
+                  "width": 512
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/0cb897425fc0e0fbba9ac5969b39cb10/5840bf48",
+                  "width": 28
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/6dcbf5fdf479e6be946413c40be82ea4/f7bad417/794px-CassandraAusten-JaneAusten28c.181029_hires.jpg"
+            }
+          ]
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recKoGJ4oUijOyOxx",
+        "properties": {
+          "Bio": "Mary Wollstonecraft Shelley (née Godwin; 30 August 1797 – 1 February 1851) was an English novelist who wrote the Gothic novel Frankenstein; or, The Modern Prometheus (1818). She also edited and promoted the works of her husband, the Romantic poet and philosopher Percy Bysshe Shelley. Her father was the political philosopher William Godwin, and her mother was the philosopher and feminist Mary Wollstonecraft.",
+          "Books": [
+            "recIhUcppd63hXGj6"
+          ],
+          "Name": "Mary Shelley",
+          "Photos": [
+            {
+              "filename": "625px-RothwellMaryShelley.jpg",
+              "id": "attwSN5PGaUI6zHjK",
+              "size": 48529,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/58c7d67e53b834a6965cd57f9cb688b8/e1af966e",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 629,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/73cbcdb78b67f50d86d9bde0dd08ad5b/2139b0d5",
+                  "width": 512
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/a24bbf7c0de27c332c56bca0b8482023/df044cfb",
+                  "width": 29
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/4af2cea18b6277e6849967176aff3abd/8ddfb86e/625px-RothwellMaryShelley.jpg"
+            }
+          ]
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "rechxV0k0fLWKeWCb",
+        "properties": {
+          "Bio": "Frederick Douglass (born Frederick Augustus Washington Bailey; c. February 1818 – February 20, 1895) was an American social reformer, abolitionist, orator, writer, and statesman. After escaping from slavery in Maryland, he became a national leader of the abolitionist movement in Massachusetts and New York, gaining note for his oratory and incisive antislavery writings. In his time, he was described by abolitionists as a living counter-example to slaveholders' arguments that slaves lacked the intellectual capacity to function as independent American citizens.\n\nDouglass wrote several autobiographies. He described his experiences as a slave in his 1845 autobiography, Narrative of the Life of Frederick Douglass, an American Slave, which became a bestseller, and was influential in promoting the cause of abolition, as was his second book, My Bondage and My Freedom (1855). After the Civil War, Douglass remained an active campaigner against slavery and wrote his last autobiography, Life and Times of Frederick Douglass. First published in 1881 and revised in 1892, three years before his death, it covered events during and after the Civil War. Douglass also actively supported women's suffrage, and held several public offices. Without his approval, Douglass became the first African American nominated for Vice President of the United States as the running mate and Vice Presidential nominee of Victoria Woodhull, on the Equal Rights Party ticket.\n\nDouglass was a firm believer in the equality of all peoples, whether black, female, Native American, or recent immigrant. He was also a believer in dialogue and in making alliances across racial and ideological divides, and in the liberal values of the U.S. Constitution. When radical abolitionists, under the motto \"No Union with Slaveholders\", criticized Douglass' willingness to engage in dialogue with slave owners, he replied: \"I would unite with anybody to do right and with nobody to do wrong.\"",
+          "Books": [
+            "recwprtJySaovkeB0"
+          ],
+          "Name": "Frederick Douglass",
+          "Photos": [
+            {
+              "filename": "713px-Frederick_Douglass_%28circa_1879%29.jpg",
+              "id": "attN1R0nBVvLclmSo",
+              "size": 166634,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/0f1b01ce31bf39c78be7028a4bfb74d9/f1a69718",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 735,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/e00cbd2d640d6913127e9e133516f68b/8807f7eb",
+                  "width": 512
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/a23a0342d8d5932693da6cce1d9a913e/ce19d855",
+                  "width": 25
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/5d1584f6e9a4965b062e4f18b4c4dfd9/99ba7105/713px-Frederick_Douglass_28circa_187929.jpg"
+            }
+          ]
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recsKNyNpMPzbEypr",
+        "properties": {
+          "Bio": "Sun Tzu (Chinese: 孫子; Pinyin transliteration Sunzi) was a Chinese general, military strategist, writer and philosopher who lived in the Eastern Zhou period of ancient China. Sun Tzu is traditionally credited as the author of The Art of War, an influential work of military strategy that has affected Western and East Asian philosophy and military thinking. His works focus much more on alternatives to battle, such as stratagem, delay, the use of spies and alternatives to war itself, the making and keeping of alliances, the uses of deceit and a willingness to submit, at least temporarily, to more powerful foes. Sun Tzu is revered in Chinese and East Asian culture as a legendary historical and military figure. His birth name was Sun Wu and he was known outside of his family by his courtesy name Changqing. The name Sun Tzu by which he is best known in the Western World is an honorific which means \"Master Sun\".",
+          "Books": [
+            "rec8lmU0DkTC86WSJ"
+          ],
+          "Name": "Sun Tzu",
+          "Photos": [
+            {
+              "filename": "吴司马孙武.jpg",
+              "id": "attZgYgQ1BWpmqTZj",
+              "size": 26685,
+              "thumbnails": {
+                "full": {
+                  "height": 3000,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/9c887d434568e7ce43f3e9cb054cb3fe/fce92e40",
+                  "width": 3000
+                },
+                "large": {
+                  "height": 300,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/4bb28d01b2f7434613d241d744901f07/19acf1af",
+                  "width": 276
+                },
+                "small": {
+                  "height": 36,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/b2c5d2ed735564e964060955189d90c5/03e6f172",
+                  "width": 33
+                }
+              },
+              "type": "image/jpeg",
+              "url": "https://dl.airtable.com/.attachments/7f075c37017f8f04816e5d35049b6a31/1e5cc4c4.jpg"
+            }
+          ]
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
   "Books": {
     "features": [
       {
